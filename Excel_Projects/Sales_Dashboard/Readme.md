@@ -66,6 +66,7 @@ The dashboard provides insights that help businesses make data-driven decisions.
 ---
  ## Screenshot
 
- <img width="1141" height="557" alt="image" src="https://github.com/user-attachments/assets/13d48e2c-b81b-488a-b506-1264c1da1b85" />
+<img width="1150" height="555" alt="image" src="https://github.com/user-attachments/assets/9503725e-2508-422a-9748-7ec95278575c" />
+
 
 

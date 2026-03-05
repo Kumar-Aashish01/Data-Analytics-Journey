@@ -41,7 +41,7 @@ The dashboard provides insights that help businesses make data-driven decisions.
 ---
 
 ## 🛠️ Tools & Technologies Used
-- Excel / Power BI / Tableau (Mention what you used)
+- Excel 
 - Data Cleaning
 - Pivot Tables
 - Data Visualization
